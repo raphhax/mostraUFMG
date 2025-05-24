@@ -1,6 +1,6 @@
 # 📊 Análise de Dados com Python: Pokémons e Campeonato Brasileiro
 
-Este projeto reúne duas análises distintas feitas em Python: uma com a base de dados de **Pokémons** e outra com dados reais do **Campeonato Brasileiro de Futebol**. Foi desenvolvido como parte da Mostra de Cursos de Ciência de Dados da UFMG.
+Este projeto reúne duas análises distintas feitas em Python: uma com a base de dados de **Pokémons** e outra com dados reais do **Campeonato Brasileiro de Futebol**. Foi desenvolvido com o intuito de ser utilizado na Mostra de Cursos da Universidade Federal de Minas Gerais(UFMG), em 2025, demontrando exemplos de aplicações práticas do conteúdo do bacharelado de Ciência de Dados, principalmente no que tange à matéria de "Fundamentos de Ciência de Dados", visando apoiar o conteúdo teórico para o público - estudantes em sua maioria, do ensino médio, com o objetivo de prestar o ENEM para ingressar em algum curso na área de TI - sobre essa graduação na UFMG, exclarecendo, de forma visual, os seus diferenciais.
 
 ---
 
@@ -54,8 +54,8 @@ Demonstrar a aplicação prática de análise de dados e visualização com Pyth
 
 ## 👨‍💻 Autor
 
-Desenvolvido por [Seu Nome Aqui] — Estudante de Ciência de Dados na UFMG  
-📧 Contato: [seu@email.com] | [@seuusuario (GitHub ou Instagram)]
+Desenvolvido por Raphael Henrique Carvalho — Estudante de Ciência de Dados na UFMG  
+📧 Contato: LinkedIn:  https://www.linkedin.com/in/raphael-henrique-carvalho-dev/
 
 ---
 
